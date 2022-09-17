@@ -1,0 +1,11 @@
+B5C2T3
+!B!*SCANIA*+48+/1/
+!B!*VOLVO*+40+/2/
+!B!*MERCEDES*+50+/3/
+!B!*SUFFLE*+42+/4/
+!B!*SETRA*+47+/5/
+!C!*TOYOTA*+2+/1/
+!C!*FORD*+4+/2/
+!T!*SETRA*+2+^7521^/1/
+!T!*MAN*+2+^8963^/2/
+!T!*IVECO*+1+^3658^/3/
